@@ -43,7 +43,7 @@ html, body, .container, .header {
 
 .title {
 	z-index: 1000;
-	
+	margin: 0 auto;
 	padding: 0 1.25em;
 	width: 100%;
 	text-align: center;

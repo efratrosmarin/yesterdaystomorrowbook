@@ -41,6 +41,4 @@ $('#hire .field:nth-child(2) input').blur(function () {
           $('.field:nth-child(2) input + label + span').css({'opacity': 0});
         }
     });
-
-
 });
